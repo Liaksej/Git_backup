@@ -48,3 +48,4 @@ if os.system(zip_command) == 0:
     print('Successful backup to', target)
 else: print('Backup FAILED')
 print('Backup FAILED')
+print('Yandex Metrica')
