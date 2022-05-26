@@ -49,3 +49,4 @@ if os.system(zip_command) == 0:
 else: print('Backup FAILED')
 print('Backup FAILED')
 print('Yandex Metrica')
+print('Google Analytics')
